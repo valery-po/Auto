@@ -2,6 +2,7 @@ $(function(){
 $(".carousel__inner").slick({
   arrows: false,
   dots: true,
+  autoplay: true,
   slidesToShow: 3,
   responsive: [
     {
